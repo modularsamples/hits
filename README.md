@@ -1,6 +1,6 @@
 # Synth Hits
 
-A collection of one shots sampled from a Eurorack Modular synthesizer.
+A collection of drum sounds sampled from Yamaha CS30L, Roland Jupiter 4, Korg Mono/Poly, Oberheim Xpander & Roland SH-2.
 
  - **Files**: 450+
 -  **Formats:** AIF & WAV
