@@ -5,6 +5,7 @@ A collection of drum sounds sampled from Yamaha CS30L, Roland Jupiter 4, Korg Mo
  - **Files**: 450+
 -  **Formats:** AIF & WAV
 -   **Approx Size:** 250mb
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/synthhits.html)
 
 # Support this project
 
